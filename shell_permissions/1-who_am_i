@@ -1,2 +1,2 @@
 #!/bin/bash
-stat -c '%U' 0-iam_betty
+stat -c '%U' 1-who_am_i
