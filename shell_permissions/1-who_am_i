@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x effective_user.sh
+ls -l 0-iam_betty
